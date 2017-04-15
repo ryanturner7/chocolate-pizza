@@ -71,4 +71,12 @@ h6{
 }
 table{
   margin-top: -300px;
+  margin-bottom: 300px
+}
+tr {
+  display: inline-block;
+  width: 300px;
+}
+td{
+  display: block;
 }
