@@ -1,0 +1,74 @@
+
+
+/*^Code Reset^*/
+
+
+body{
+  margin: 0 auto;
+  width: 900px;
+  margin-top: 120px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+header{
+  display: block;
+  width: 100%;
+  position: fixed;
+  margin-top: -120px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+#delicious{
+  font-size: 40px;
+  display: inline;
+  font-family: Pacifico, cursive;
+}
+#top-left{
+  float: left;
+  display: inline;
+  display: block;
+}
+
+#icons{
+  padding: 5px;
+  float: right;
+  background-color: rgba(255, 255, 255, 0.5);
+  display: inline-block;
+  position: fixed;
+    top: 8px;
+    right: 16px;
+}
+#rss{
+  padding-left: 5px;
+}
+#print{
+  float:right;
+}
+#header-decal{
+  display: block;
+  width: 900px;
+  color: rgba(0, 0, 0, 0.2);
+  margin-top: 100px;
+  height: 20px;
+
+}
+#header-decal{
+  display: block;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+h1{
+  font-weight: bold;
+  font-family: Abel, sans-serif;
+  display: inline-block;
+  margin-bottom: -10px;
+}
+h4{
+  display: inline-block;
+}
+h6{
+  margin: 0 auto;
+  margin-top: 0;
+  font-weight: lighter;
+}
+table{
+  margin-top: -300px;
+}
